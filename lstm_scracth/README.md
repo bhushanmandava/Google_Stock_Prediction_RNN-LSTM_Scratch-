@@ -122,12 +122,3 @@ Company B pred_value: 0.9841
 - Python 3.7+
 - PyTorch
 
-## How to Run
-1. Install dependencies: `pip install torch`
-2. Run the script: `python lstm_scratch.py`
-
-## Author
-Bhushan Chowdary
-
-## License
-MIT License
