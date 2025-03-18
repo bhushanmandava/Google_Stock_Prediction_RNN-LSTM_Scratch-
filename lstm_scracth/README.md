@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM from Scratch
+#  LSTM from Scratch
 
 This project implements a Long Short-Term Memory (LSTM) neural network from scratch using PyTorch. The model is designed to predict stock prices based on historical data.
 
